@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093349718727",
+    "firebase_url": "https://iotapprsanches.firebaseio.com",
+    "project_id": "iotapprsanches",
+    "storage_bucket": "iotapprsanches.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093349718727:android:69a15a6f64f7febe",
+        "android_client_info": {
+          "package_name": "br.com.renan.iotapp_rsanches"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093349718727-8ng1nmtu3ec9gqb1d4hjokp3anvdj4b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.renan.iotapp_rsanches",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "1093349718727-dhvhja6nt2b3up6onv8qeglbcf8e4alv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXA3K7lT8XEgn7vE7_oewezNuvktEIEpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093349718727-dhvhja6nt2b3up6onv8qeglbcf8e4alv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
